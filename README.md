@@ -13,11 +13,11 @@ Explanation of workflow:
 #### 4) Select the corresponding prediction node according to the model read by the model reader;
 #### 5) Output for the prediction result. In addition, evaluation nodes can be chosen according to your task.
 
-![image](http://projects.scbdd.com/assets/img/description/NOAEL/figure1.jpg)
+![image](https://github.com/ifyoungnet/NOAEL/blob/main/SCO-R%20for%20classification.svg)
 <p align="center">Figure 1. KNIME usage example of classification model.</p>
 
-![image](http://projects.scbdd.com/assets/img/description/NOAEL/figure2.jpg)
-<p align="center">Figure 2. KNIME usage example of logSw prediction model.</p>
+![image](https://github.com/ifyoungnet/NOAEL/blob/main/SCO-R%20for%20regression.svg)
+<p align="center">Figure 2. KNIME usage example of NOAEL prediction model.</p>
 
 ## Publication
 > Jie Qian, Rui Liang, Fang-liang Song, Xue-jie Wang, Ying Liang, Wen-bin Zeng, Jie Dong. NOAEL prediction and explanation by systematic comparison of different machine learning methods and descriptors. *Food Chemistry*, submitted.
@@ -25,5 +25,3 @@ Explanation of workflow:
 ## Contact
   
   * Dong Jie <biomed@csu.edu.cn> 
-
-  * Dongsheng Cao <oriental-cds@163.com>
