@@ -24,4 +24,4 @@ Explanation of workflow:
 
 ## Contact
   
-  * Dong Jie <biomed@csu.edu.cn> 
+  * Dong Jie <jiedong@csu.edu.cn> 
