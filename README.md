@@ -19,7 +19,7 @@ Explanation of workflow:
 ![image](https://github.com/ifyoungnet/NOAEL/blob/main/SCO-R%20for%20regression.svg)
 <p align="center">Figure 2. KNIME usage example of NOAEL prediction model.</p>
 
-![image](https://github.com/ifyoungnet/NOAEL/blob/main/Application%Domain.svg)
+![image](https://github.com/ifyoungnet/NOAEL/blob/main/Application%20Domain.svg)
 <p align="center">Figure 3. KNIME usage example of application domain.</p>
 
 ## Publication
