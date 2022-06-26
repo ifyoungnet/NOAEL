@@ -19,8 +19,11 @@ Explanation of workflow:
 ![image](https://github.com/ifyoungnet/NOAEL/blob/main/SCO-R%20for%20regression.svg)
 <p align="center">Figure 2. KNIME usage example of NOAEL prediction model.</p>
 
+![image](https://github.com/ifyoungnet/NOAEL/blob/main/Application%Domain.svg)
+<p align="center">Figure 3. KNIME usage example of application domain.</p>
+
 ## Publication
-> Jie Qian, Rui Liang, Fang-liang Song, Xue-jie Wang, Ying Liang, Wen-bin Zeng, Jie Dong. NOAEL prediction and explanation by systematic comparison of different machine learning methods and descriptors. *Food Chemistry*, submitted.
+> Jie Qian, Rui Liang, Fang-liang Song, Xue-jie Wang, Ying Liang, Wen-bin Zeng, Jie Dong. NOAEL prediction and explanation by systematic comparison of different machine learning methods and descriptors. submitted.
 
 ## Contact
   
