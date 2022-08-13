@@ -23,7 +23,7 @@ Explanation of workflow:
 <p align="center">Figure 3. KNIME usage example of application domain.</p>
 
 ## Publication
-> Jie Qian, Rui Liang, Fang-liang Song, Xue-jie Wang, Ying Liang, Wen-bin Zeng, Jie Dong. NOAEL prediction and explanation by systematic comparison of different machine learning methods and descriptors. submitted.
+> Jie Qian, Rui Liang, Fang-liang Song, Xue-jie Wang, Ying Liang, Wen-bin Zeng, Jie Dong. NOAEL prediction and explanation by systematic comparison of different machine learning methods and descriptors. Food and Chemical Toxicology, Available online 10 August 2022, 113325.
 
 ## Contact
   
